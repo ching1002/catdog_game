@@ -1,0 +1,274 @@
+{
+  "cat-native-idle": {
+    "fps": 8,
+    "files": [
+      "assets/animations-native/cat-native-idle/cat-native-idle-00.png",
+      "assets/animations-native/cat-native-idle/cat-native-idle-01.png",
+      "assets/animations-native/cat-native-idle/cat-native-idle-02.png",
+      "assets/animations-native/cat-native-idle/cat-native-idle-03.png"
+    ],
+    "sheet": "assets/animations-native/cat-native-idle/cat-native-idle-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "cat-native-attack": {
+    "fps": 8,
+    "files": [
+      "assets/animations-native/cat-native-attack/cat-native-attack-00.png",
+      "assets/animations-native/cat-native-attack/cat-native-attack-01.png",
+      "assets/animations-native/cat-native-attack/cat-native-attack-02.png",
+      "assets/animations-native/cat-native-attack/cat-native-attack-03.png"
+    ],
+    "sheet": "assets/animations-native/cat-native-attack/cat-native-attack-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "cat-native-hurt": {
+    "fps": 8,
+    "files": [
+      "assets/animations-native/cat-native-hurt/cat-native-hurt-00.png",
+      "assets/animations-native/cat-native-hurt/cat-native-hurt-01.png",
+      "assets/animations-native/cat-native-hurt/cat-native-hurt-02.png",
+      "assets/animations-native/cat-native-hurt/cat-native-hurt-03.png"
+    ],
+    "sheet": "assets/animations-native/cat-native-hurt/cat-native-hurt-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "cat-native-ready": {
+    "fps": 8,
+    "files": [
+      "assets/animations-native/cat-native-ready/cat-native-ready-00.png",
+      "assets/animations-native/cat-native-ready/cat-native-ready-01.png",
+      "assets/animations-native/cat-native-ready/cat-native-ready-02.png",
+      "assets/animations-native/cat-native-ready/cat-native-ready-03.png"
+    ],
+    "sheet": "assets/animations-native/cat-native-ready/cat-native-ready-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "boss-shiba-native-idle": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-shiba-native-idle/boss-shiba-native-idle-00.png",
+      "assets/animations-native/boss-shiba-native-idle/boss-shiba-native-idle-01.png",
+      "assets/animations-native/boss-shiba-native-idle/boss-shiba-native-idle-02.png",
+      "assets/animations-native/boss-shiba-native-idle/boss-shiba-native-idle-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-shiba-native-idle/boss-shiba-native-idle-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-shiba-native-roar": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-shiba-native-roar/boss-shiba-native-roar-00.png",
+      "assets/animations-native/boss-shiba-native-roar/boss-shiba-native-roar-01.png",
+      "assets/animations-native/boss-shiba-native-roar/boss-shiba-native-roar-02.png",
+      "assets/animations-native/boss-shiba-native-roar/boss-shiba-native-roar-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-shiba-native-roar/boss-shiba-native-roar-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-shiba-native-shoot": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-shiba-native-shoot/boss-shiba-native-shoot-00.png",
+      "assets/animations-native/boss-shiba-native-shoot/boss-shiba-native-shoot-01.png",
+      "assets/animations-native/boss-shiba-native-shoot/boss-shiba-native-shoot-02.png",
+      "assets/animations-native/boss-shiba-native-shoot/boss-shiba-native-shoot-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-shiba-native-shoot/boss-shiba-native-shoot-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-shiba-native-dash": {
+    "fps": 12,
+    "files": [
+      "assets/animations-native/boss-shiba-native-dash/boss-shiba-native-dash-00.png",
+      "assets/animations-native/boss-shiba-native-dash/boss-shiba-native-dash-01.png",
+      "assets/animations-native/boss-shiba-native-dash/boss-shiba-native-dash-02.png",
+      "assets/animations-native/boss-shiba-native-dash/boss-shiba-native-dash-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-shiba-native-dash/boss-shiba-native-dash-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-doghouse-native-idle": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-doghouse-native-idle/boss-doghouse-native-idle-00.png",
+      "assets/animations-native/boss-doghouse-native-idle/boss-doghouse-native-idle-01.png",
+      "assets/animations-native/boss-doghouse-native-idle/boss-doghouse-native-idle-02.png",
+      "assets/animations-native/boss-doghouse-native-idle/boss-doghouse-native-idle-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-doghouse-native-idle/boss-doghouse-native-idle-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-doghouse-native-roar": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-doghouse-native-roar/boss-doghouse-native-roar-00.png",
+      "assets/animations-native/boss-doghouse-native-roar/boss-doghouse-native-roar-01.png",
+      "assets/animations-native/boss-doghouse-native-roar/boss-doghouse-native-roar-02.png",
+      "assets/animations-native/boss-doghouse-native-roar/boss-doghouse-native-roar-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-doghouse-native-roar/boss-doghouse-native-roar-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-doghouse-native-shoot": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-doghouse-native-shoot/boss-doghouse-native-shoot-00.png",
+      "assets/animations-native/boss-doghouse-native-shoot/boss-doghouse-native-shoot-01.png",
+      "assets/animations-native/boss-doghouse-native-shoot/boss-doghouse-native-shoot-02.png",
+      "assets/animations-native/boss-doghouse-native-shoot/boss-doghouse-native-shoot-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-doghouse-native-shoot/boss-doghouse-native-shoot-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-doghouse-native-dash": {
+    "fps": 12,
+    "files": [
+      "assets/animations-native/boss-doghouse-native-dash/boss-doghouse-native-dash-00.png",
+      "assets/animations-native/boss-doghouse-native-dash/boss-doghouse-native-dash-01.png",
+      "assets/animations-native/boss-doghouse-native-dash/boss-doghouse-native-dash-02.png",
+      "assets/animations-native/boss-doghouse-native-dash/boss-doghouse-native-dash-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-doghouse-native-dash/boss-doghouse-native-dash-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-mecha-native-idle": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-mecha-native-idle/boss-mecha-native-idle-00.png",
+      "assets/animations-native/boss-mecha-native-idle/boss-mecha-native-idle-01.png",
+      "assets/animations-native/boss-mecha-native-idle/boss-mecha-native-idle-02.png",
+      "assets/animations-native/boss-mecha-native-idle/boss-mecha-native-idle-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-mecha-native-idle/boss-mecha-native-idle-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-mecha-native-roar": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-mecha-native-roar/boss-mecha-native-roar-00.png",
+      "assets/animations-native/boss-mecha-native-roar/boss-mecha-native-roar-01.png",
+      "assets/animations-native/boss-mecha-native-roar/boss-mecha-native-roar-02.png",
+      "assets/animations-native/boss-mecha-native-roar/boss-mecha-native-roar-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-mecha-native-roar/boss-mecha-native-roar-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-mecha-native-shoot": {
+    "fps": 7,
+    "files": [
+      "assets/animations-native/boss-mecha-native-shoot/boss-mecha-native-shoot-00.png",
+      "assets/animations-native/boss-mecha-native-shoot/boss-mecha-native-shoot-01.png",
+      "assets/animations-native/boss-mecha-native-shoot/boss-mecha-native-shoot-02.png",
+      "assets/animations-native/boss-mecha-native-shoot/boss-mecha-native-shoot-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-mecha-native-shoot/boss-mecha-native-shoot-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-mecha-native-dash": {
+    "fps": 12,
+    "files": [
+      "assets/animations-native/boss-mecha-native-dash/boss-mecha-native-dash-00.png",
+      "assets/animations-native/boss-mecha-native-dash/boss-mecha-native-dash-01.png",
+      "assets/animations-native/boss-mecha-native-dash/boss-mecha-native-dash-02.png",
+      "assets/animations-native/boss-mecha-native-dash/boss-mecha-native-dash-03.png"
+    ],
+    "sheet": "assets/animations-native/boss-mecha-native-dash/boss-mecha-native-dash-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-shiba-native-death": {
+    "fps": 10,
+    "files": [
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-00.png",
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-01.png",
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-02.png",
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-03.png",
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-04.png",
+      "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-05.png"
+    ],
+    "sheet": "assets/animations-native/boss-shiba-native-death/boss-shiba-native-death-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-doghouse-native-death": {
+    "fps": 10,
+    "files": [
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-00.png",
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-01.png",
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-02.png",
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-03.png",
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-04.png",
+      "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-05.png"
+    ],
+    "sheet": "assets/animations-native/boss-doghouse-native-death/boss-doghouse-native-death-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-mecha-native-death": {
+    "fps": 10,
+    "files": [
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-00.png",
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-01.png",
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-02.png",
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-03.png",
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-04.png",
+      "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-05.png"
+    ],
+    "sheet": "assets/animations-native/boss-mecha-native-death/boss-mecha-native-death-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  }
+}

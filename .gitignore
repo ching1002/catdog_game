@@ -1,0 +1,13 @@
+# Local/dev previews
+*-preview*.png
+*art-pass*.png
+*animation-pass*.png
+boss-wave-*.png
+title-screen-preview.png
+
+# Original local copy; deployed game uses assets/video/intro.mp4
+/mp4.mp4
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

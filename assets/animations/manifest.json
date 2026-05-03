@@ -1,0 +1,226 @@
+{
+  "cat-idle": {
+    "fps": 7,
+    "files": [
+      "assets/animations/cat-idle/cat-idle-00.png",
+      "assets/animations/cat-idle/cat-idle-01.png",
+      "assets/animations/cat-idle/cat-idle-02.png",
+      "assets/animations/cat-idle/cat-idle-03.png"
+    ],
+    "sheet": "assets/animations/cat-idle/cat-idle-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "cat-attack": {
+    "fps": 12,
+    "files": [
+      "assets/animations/cat-attack/cat-attack-00.png",
+      "assets/animations/cat-attack/cat-attack-01.png",
+      "assets/animations/cat-attack/cat-attack-02.png",
+      "assets/animations/cat-attack/cat-attack-03.png"
+    ],
+    "sheet": "assets/animations/cat-attack/cat-attack-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "cat-hurt": {
+    "fps": 10,
+    "files": [
+      "assets/animations/cat-hurt/cat-hurt-00.png",
+      "assets/animations/cat-hurt/cat-hurt-01.png"
+    ],
+    "sheet": "assets/animations/cat-hurt/cat-hurt-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "dog-small-run": {
+    "fps": 9,
+    "files": [
+      "assets/animations/dog-small-run/dog-small-run-00.png",
+      "assets/animations/dog-small-run/dog-small-run-01.png",
+      "assets/animations/dog-small-run/dog-small-run-02.png",
+      "assets/animations/dog-small-run/dog-small-run-03.png"
+    ],
+    "sheet": "assets/animations/dog-small-run/dog-small-run-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "dog-fast-run": {
+    "fps": 13,
+    "files": [
+      "assets/animations/dog-fast-run/dog-fast-run-00.png",
+      "assets/animations/dog-fast-run/dog-fast-run-01.png",
+      "assets/animations/dog-fast-run/dog-fast-run-02.png",
+      "assets/animations/dog-fast-run/dog-fast-run-03.png"
+    ],
+    "sheet": "assets/animations/dog-fast-run/dog-fast-run-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "dog-big-run": {
+    "fps": 9,
+    "files": [
+      "assets/animations/dog-big-run/dog-big-run-00.png",
+      "assets/animations/dog-big-run/dog-big-run-01.png",
+      "assets/animations/dog-big-run/dog-big-run-02.png",
+      "assets/animations/dog-big-run/dog-big-run-03.png"
+    ],
+    "sheet": "assets/animations/dog-big-run/dog-big-run-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "dog-disc-run": {
+    "fps": 9,
+    "files": [
+      "assets/animations/dog-disc-run/dog-disc-run-00.png",
+      "assets/animations/dog-disc-run/dog-disc-run-01.png",
+      "assets/animations/dog-disc-run/dog-disc-run-02.png",
+      "assets/animations/dog-disc-run/dog-disc-run-03.png"
+    ],
+    "sheet": "assets/animations/dog-disc-run/dog-disc-run-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "dog-bone-run": {
+    "fps": 9,
+    "files": [
+      "assets/animations/dog-bone-run/dog-bone-run-00.png",
+      "assets/animations/dog-bone-run/dog-bone-run-01.png",
+      "assets/animations/dog-bone-run/dog-bone-run-02.png",
+      "assets/animations/dog-bone-run/dog-bone-run-03.png"
+    ],
+    "sheet": "assets/animations/dog-bone-run/dog-bone-run-sheet.png",
+    "frameSize": [
+      320,
+      320
+    ]
+  },
+  "boss-idle": {
+    "fps": 6,
+    "files": [
+      "assets/animations/boss-idle/boss-idle-00.png",
+      "assets/animations/boss-idle/boss-idle-01.png",
+      "assets/animations/boss-idle/boss-idle-02.png",
+      "assets/animations/boss-idle/boss-idle-03.png"
+    ],
+    "sheet": "assets/animations/boss-idle/boss-idle-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-charge": {
+    "fps": 8,
+    "files": [
+      "assets/animations/boss-charge/boss-charge-00.png",
+      "assets/animations/boss-charge/boss-charge-01.png",
+      "assets/animations/boss-charge/boss-charge-02.png"
+    ],
+    "sheet": "assets/animations/boss-charge/boss-charge-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-dash": {
+    "fps": 14,
+    "files": [
+      "assets/animations/boss-dash/boss-dash-00.png",
+      "assets/animations/boss-dash/boss-dash-01.png",
+      "assets/animations/boss-dash/boss-dash-02.png"
+    ],
+    "sheet": "assets/animations/boss-dash/boss-dash-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "boss-death": {
+    "fps": 9,
+    "files": [
+      "assets/animations/boss-death/boss-death-00.png",
+      "assets/animations/boss-death/boss-death-01.png",
+      "assets/animations/boss-death/boss-death-02.png",
+      "assets/animations/boss-death/boss-death-03.png",
+      "assets/animations/boss-death/boss-death-04.png",
+      "assets/animations/boss-death/boss-death-05.png"
+    ],
+    "sheet": "assets/animations/boss-death/boss-death-sheet.png",
+    "frameSize": [
+      420,
+      420
+    ]
+  },
+  "projectile-yarn-loop": {
+    "fps": 12,
+    "files": [
+      "assets/animations/projectile-yarn-loop/projectile-yarn-loop-00.png",
+      "assets/animations/projectile-yarn-loop/projectile-yarn-loop-01.png",
+      "assets/animations/projectile-yarn-loop/projectile-yarn-loop-02.png",
+      "assets/animations/projectile-yarn-loop/projectile-yarn-loop-03.png"
+    ],
+    "sheet": "assets/animations/projectile-yarn-loop/projectile-yarn-loop-sheet.png",
+    "frameSize": [
+      180,
+      180
+    ]
+  },
+  "projectile-bone-loop": {
+    "fps": 12,
+    "files": [
+      "assets/animations/projectile-bone-loop/projectile-bone-loop-00.png",
+      "assets/animations/projectile-bone-loop/projectile-bone-loop-01.png",
+      "assets/animations/projectile-bone-loop/projectile-bone-loop-02.png",
+      "assets/animations/projectile-bone-loop/projectile-bone-loop-03.png"
+    ],
+    "sheet": "assets/animations/projectile-bone-loop/projectile-bone-loop-sheet.png",
+    "frameSize": [
+      180,
+      180
+    ]
+  },
+  "projectile-disc-loop": {
+    "fps": 12,
+    "files": [
+      "assets/animations/projectile-disc-loop/projectile-disc-loop-00.png",
+      "assets/animations/projectile-disc-loop/projectile-disc-loop-01.png",
+      "assets/animations/projectile-disc-loop/projectile-disc-loop-02.png",
+      "assets/animations/projectile-disc-loop/projectile-disc-loop-03.png"
+    ],
+    "sheet": "assets/animations/projectile-disc-loop/projectile-disc-loop-sheet.png",
+    "frameSize": [
+      180,
+      180
+    ]
+  },
+  "fx-explosion-loop": {
+    "fps": 14,
+    "files": [
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-00.png",
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-01.png",
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-02.png",
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-03.png",
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-04.png",
+      "assets/animations/fx-explosion-loop/fx-explosion-loop-05.png"
+    ],
+    "sheet": "assets/animations/fx-explosion-loop/fx-explosion-loop-sheet.png",
+    "frameSize": [
+      260,
+      260
+    ]
+  }
+}
